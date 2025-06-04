@@ -1,40 +1,51 @@
 public class Mascota {
-    // Atributos privados (encapsulamiento)
     private String nombre;
     private String especie;
     private int edad;
 
-    // Constructor
     public Mascota(String nombre, String especie, int edad) {
-        this.nombre = nombre;
-        this.especie = especie;
-        this.edad = edad;
+        setNombre(nombre);
+        setEspecie(especie);
+        setEdad(edad);
     }
 
-    // Método para mostrar información de la mascota
-    public void mostrarInfo() {
-        System.out.println("\nInformación de la mascota:");
-        System.out.println("Nombre: " + nombre);
-        System.out.println("Especie: " + especie);
-        System.out.println("Edad: " + edad + " años");
+    public void mostrarInfo(){
+        System.out.println("---------------------------");
+        System.out.println("Nombre: "+getNombre());
+        System.out.println("Especie: "+getEspecie());
+        System.out.println("Edad: "+getEdad());
     }
 
-    // Método para aumentar la edad en 1 año
     public void cumplirAnios() {
-        edad++;
-        System.out.println("¡Feliz cumpleaños! Ahora " + nombre + " tiene " + edad + " años.");
+        this.edad += 1;
+        mostrarInfo();
     }
 
-    // Getters (opcional, pero buena práctica)
     public String getNombre() {
         return nombre;
+    }
+
+    public void setNombre(String nombre) {
+        this.nombre = nombre;
     }
 
     public String getEspecie() {
         return especie;
     }
 
+    public void setEspecie(String especie) {
+        this.especie = especie;
+    }
+
     public int getEdad() {
         return edad;
+    }
+
+    public void setEdad(int edad) {
+        if (edad < 0) {
+            System.out.println("Ingrese un valor valido");
+        } else {
+            this.edad = edad;
+        }
     }
 }

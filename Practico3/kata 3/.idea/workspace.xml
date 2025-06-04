@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d39a193d-5f4b-4921-8d71-af828f8c251c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../kata 1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kata 1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../kata 1/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kata 1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../kata 1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kata 1/Practico 3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kata 1/src/Estudiante.java" beforeDir="false" afterPath="$PROJECT_DIR$/../kata 1/src/Estudiante.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kata 1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../kata 1/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kata 2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kata 2/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../kata 2/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kata 2/src/Mascota.java" beforeDir="false" afterPath="$PROJECT_DIR$/../kata 2/src/Mascota.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Libro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Libro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kata 4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kata 4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kata 4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kata 4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kata 4/kata 4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kata 4/src/Gallina.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kata 4/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../kata 4/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kata 5/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kata 5/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kata 5/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kata 5/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kata 5/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kata 5/kata 5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kata 5/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kata 5/src/NaveEspacial.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2y369e9UQnRcZ2dRPD0dp2Mi5Pp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "D:/Users/Usuario/Desktop/UTN/Cursos/segundo año/Programación 2- Prof Rigoni/Java-Prog-2/Practico3/kata 3/src/Main.java"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d39a193d-5f4b-4921-8d71-af828f8c251c" name="Changes" comment="" />
+      <created>1749050760559</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1749050760559</updated>
+    </task>
+    <servers />
+  </component>
+</project>
